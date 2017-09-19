@@ -1,0 +1,1 @@
+Download the application and import to Android Studio, then click run the project
